@@ -1,8 +1,6 @@
-# app_chat
+# WhatsApp Clone
 
-A new Flutter application.
 
-## Getting Started
+## Description
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+Build an app like WhatsApp interface.
